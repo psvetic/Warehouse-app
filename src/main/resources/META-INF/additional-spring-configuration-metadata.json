@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "liquibase.default-schema",
+      "type": "java.lang.String",
+      "description": "Description for liquibase.default-schema."
+  }
+] }
